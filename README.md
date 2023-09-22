@@ -7,21 +7,19 @@ Objective: The primary objective of this project is to predict various performan
 
 # Key Components of the Project:
 
-Data Collection: The project begins with the collection of historical data related to cricket matches and player statistics. This data can include information about matches, players, venues, playing conditions, and more.
+Data Collection: The project begins with the collection of historical data related to cricket matches and player statistics. This data included information about matches, players, venues, playing conditions, and more.
 
 Data Preprocessing: Data preprocessing is a crucial step where raw data is cleaned, transformed, and prepared for analysis. This includes handling missing values, encoding categorical variables, and scaling or normalizing numerical features.
 
 Feature Engineering: In this step, relevant features are selected or created to improve the predictive power of the machine learning models. For example, creating features like batting strike rate, bowling economy rate, or player form indicators.
 
-Machine Learning Model Selection: Various machine learning algorithms are explored and evaluated to choose the most suitable models for the prediction tasks. Regression models may be used for predicting numerical outcomes, while classification models can be employed for categorization tasks.
+Machine Learning Model Selection: Various machine learning algorithms are explored and evaluated to choose the most suitable models for the prediction tasks. However, Regression model was used for predicting numerical outcomes.
 
 Model Training: The selected machine learning models are trained on historical data. This involves splitting the data into training and testing sets to assess the model's performance.
 
 Model Evaluation: The models are evaluated using appropriate evaluation metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), R-squared (R2), or accuracy, depending on the specific prediction tasks.
 
 Hyperparameter Tuning: Model hyperparameters are fine-tuned to optimize their performance. Techniques like cross-validation and grid search are often employed.
-
-Deployment: Once the models are trained and validated, they can be deployed to make real-time predictions about player performance. This can be in the form of a web application, API, or other interfaces.
 
 # Potential Predictions:
 
@@ -43,8 +41,4 @@ Selecting the most appropriate features and models for accurate predictions can 
 
 # Benefits:
 
-Cricket player performance prediction can aid team selection, captaincy decisions, and overall team strategy.
-
-It can provide valuable insights to fans, analysts, and team management.
-
-The project can contribute to the growing field of sports analytics and enhance the overall cricketing experience.
+The project contributed to the growing field of sports analytics and enhanced the overall cricketing experience.
