@@ -1,4 +1,4 @@
-# Cricket_Player_Performance_Prediction
+# Cricket Player Performance Prediction
 The project of cricket player performance prediction using machine learning is a data-driven endeavor aimed at leveraging advanced analytical techniques to forecast the performance of cricket players in various aspects of the game. This project combines the rich data available from cricket matches and players' statistics with machine learning algorithms to make predictions about player performance. Here is a brief description of this project:
 
 # Project Overview:
